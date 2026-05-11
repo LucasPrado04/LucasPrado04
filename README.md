@@ -21,7 +21,13 @@ Aquí puedes usar iconos para que sea más visual:
 ### 📊 Mis Estadísticas de GitHub
 ![Streak de Lucas](https://github-readme-streak-stats.herokuapp.com/?user=LucasPrado04&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrado04&layout=compact&theme=tokyonight)
+### 🛠️ Stack Tecnológico
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📫 Cómo contactarme
 - **Email:** lluukks17@gmail.com
