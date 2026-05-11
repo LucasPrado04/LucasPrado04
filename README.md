@@ -30,7 +30,8 @@ Aquí puedes usar iconos para que sea más visual:
 | **Otros** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
 
 ### 📚 Actualmente aprendiendo
-- 📱 **Desarrollo Mobile:** Explorando el ecosistema de Android con **Android Studio**. ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+- 📱 **Desarrollo Mobile:** Explorando el ecosistema de Android con **Android Studio**.
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### 📫 Cómo contactarme
 - **Email:** lluukks17@gmail.com
