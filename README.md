@@ -18,6 +18,7 @@ Aquí puedes usar iconos para que sea más visual:
 - **E-commerce Productos Villalba:** Plataforma con catálogo y gestión de pedidos.
 
 ### 📊 Mis Estadísticas de GitHub
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=LucasPrado04&theme=tokyonight)
 ![Streak de Lucas](https://github-readme-streak-stats.herokuapp.com/?user=LucasPrado04&theme=tokyonight)
 
 ### 🛠️ Tecnologías
