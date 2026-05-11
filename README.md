@@ -20,9 +20,9 @@ Aquí puedes usar iconos para que sea más visual:
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de Lucas](https://github-readme-stats.vercel.app/api?username=LucasPrado04&show_icons=true&theme=radical)
+![Estadísticas de Lucas](https://github-readme-stats.vercel.app/api?username=LucasPrado04&show_icons=true&theme=dracula)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrado04&layout=compact&theme=radical)
+![Lenguajes de Lucas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrado04&layout=compact&theme=dracula)
 
 ### 📫 Cómo contactarme
 - **Email:** lluukks17@gmail.com
