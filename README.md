@@ -19,8 +19,9 @@ Aquí puedes usar iconos para que sea más visual:
 - **E-commerce Productos Villalba:** Plataforma con catálogo y gestión de pedidos.
 
 ### 📊 Mis Estadísticas de GitHub
-Puedes añadir estas imágenes dinámicas (reemplaza `tu-usuario` por tu nombre real en GitHub):
+
 ![Estadísticas de Lucas](https://github-readme-stats.vercel.app/api?username=LucasPrado04&show_icons=true&theme=radical)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrado04&layout=compact&theme=radical)
 
 ### 📫 Cómo contactarme
