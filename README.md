@@ -21,7 +21,6 @@ Aquí puedes usar iconos para que sea más visual:
 ![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=LucasPrado04&theme=tokyonight)
 ![Streak de Lucas](https://github-readme-streak-stats.herokuapp.com/?user=LucasPrado04&theme=tokyonight)
 [![Trofeos de Lucas](https://github-profile-trophy.vercel.app/?username=LucasPrado04&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrado04&layout=compact&theme=radical&hide_progress=false)
 
 ### 🛠️ Tecnologías
 
