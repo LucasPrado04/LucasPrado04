@@ -8,7 +8,6 @@ Soy **Programador** y estudiante de **Sistemas de Información** en la UNNE. Me 
 - 🐧 Usuario entusiasta de distribuciones Linux como Fedora.
 
 ### 🛠️ Tecnologías y Herramientas
-Aquí puedes usar iconos para que sea más visual:
 - **Frontend:** React, TypeScript.
 - **Backend:** Laravel (PHP), MySQL.
 - **Herramientas:** Electron, GitHub Copilot, Linux (Fedora/MX Linux), C++.
