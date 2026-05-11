@@ -6,13 +6,12 @@ Soy **Programador** y estudiante de **Sistemas de Información** en la UNNE. Me 
 - 🎓 Estudiante de Licenciatura en Sistemas de Información (FaCENA - UNNE).
 - 💻 Desarrollador Full-Stack con experiencia en aplicaciones de escritorio y web.
 - 🐧 Usuario entusiasta de distribuciones Linux como Fedora.
-- 🏆 Becario del Programa Manuel Belgrano.
 
 ### 🛠️ Tecnologías y Herramientas
 Aquí puedes usar iconos para que sea más visual:
-- **Frontend:** React, TypeScript, Tailwind CSS.
+- **Frontend:** React, TypeScript.
 - **Backend:** Laravel (PHP), MySQL.
-- **Herramientas:** Electron, GitHub Copilot, Linux (Fedora/MX Linux).
+- **Herramientas:** Electron, GitHub Copilot, Linux (Fedora/MX Linux), C++.
 
 ### 📁 Proyectos Destacados
 - **POSLyionApp:** Sistema de punto de venta desarrollado con Electron y React.
@@ -29,6 +28,9 @@ Aquí puedes usar iconos para que sea más visual:
 | **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) |
 | **Bases de Datos** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Otros** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
+
+### 📚 Actualmente aprendiendo
+- 📱 **Desarrollo Mobile:** Explorando el ecosistema de Android con **Android Studio**. ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### 📫 Cómo contactarme
 - **Email:** lluukks17@gmail.com
