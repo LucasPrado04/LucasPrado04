@@ -20,8 +20,8 @@ Aquí puedes usar iconos para que sea más visual:
 
 ### 📊 Mis Estadísticas de GitHub
 Puedes añadir estas imágenes dinámicas (reemplaza `tu-usuario` por tu nombre real en GitHub):
-![Estadísticas de tu-usuario](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Estadísticas de Lucas](https://github-readme-stats.vercel.app/api?username=LucasPrado04&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrado04&layout=compact&theme=radical)
 
 ### 📫 Cómo contactarme
 - **Email:** lluukks17@gmail.com
