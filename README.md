@@ -21,7 +21,7 @@ Aquí puedes usar iconos para que sea más visual:
 ### 📊 Mis Estadísticas de GitHub
 ![Streak de Lucas](https://github-readme-streak-stats.herokuapp.com/?user=LucasPrado04&theme=tokyonight)
 
-![Lenguajes de Lucas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrado04&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrado04&layout=compact&theme=tokyonight)
 
 ### 📫 Cómo contactarme
 - **Email:** lluukks17@gmail.com
